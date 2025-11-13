@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package TUGAS_PERTEMUAN9;
+package TUGAS_PERTEMUAN10;
 
 
 import java.io.BufferedReader;
