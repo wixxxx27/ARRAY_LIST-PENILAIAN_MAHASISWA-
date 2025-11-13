@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package TUGAS_PERTEMUAN9;
+package TUGAS_PERTEMUAN10;
 
 /**
  *
@@ -34,3 +34,4 @@ public class Mahasiswa {
         return (n1 * 0.10) + (n2 * 0.15) + (n3 * 0.25) + (n4 * 0.15) + (n5 * 0.35);
     }
 }
+
